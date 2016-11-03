@@ -10,6 +10,7 @@ Example
 ## Purpose
 
 Sample website with plenty of files for demos
+And more comments - again :)
 
 ## Deployment
 
