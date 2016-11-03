@@ -14,5 +14,8 @@ And more comments - again :)
 
 ## Deployment
 
+just example text :)
+
 ## How to contribute
 
+How many times we have to add this dummy text?!!
