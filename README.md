@@ -19,3 +19,7 @@ just example text :)
 ## How to contribute
 
 How many times we have to add this dummy text?!!
+
+## Copyright
+
+Copyright 2016 GIT training
